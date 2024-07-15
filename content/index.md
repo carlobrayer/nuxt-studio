@@ -1,4 +1,4 @@
 ---
-title: 'Home'
-description: 'meta description of the page'
+title: Teste
+description: meta description of the page
 ---
